@@ -74,7 +74,7 @@ public class Player {
      * @return score of player
      */
     public int getScore() {
-        return this.getScore();
+        return this.score;
     }
 
 }
